@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sensors", "sensors\sensors.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "demo", "demo\demo.vcxproj", "{7DDEE0AC-2D93-49DC-A46A-A02729D57E8E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "work", "work\work.vcxproj", "{6A704374-BC4F-45FC-B661-CFB0E6DDFBC0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -21,6 +23,10 @@ Global
 		{7DDEE0AC-2D93-49DC-A46A-A02729D57E8E}.Debug|x86.Build.0 = Debug|Win32
 		{7DDEE0AC-2D93-49DC-A46A-A02729D57E8E}.Release|x86.ActiveCfg = Release|Win32
 		{7DDEE0AC-2D93-49DC-A46A-A02729D57E8E}.Release|x86.Build.0 = Release|Win32
+		{6A704374-BC4F-45FC-B661-CFB0E6DDFBC0}.Debug|x86.ActiveCfg = Debug|Win32
+		{6A704374-BC4F-45FC-B661-CFB0E6DDFBC0}.Debug|x86.Build.0 = Debug|Win32
+		{6A704374-BC4F-45FC-B661-CFB0E6DDFBC0}.Release|x86.ActiveCfg = Release|Win32
+		{6A704374-BC4F-45FC-B661-CFB0E6DDFBC0}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
